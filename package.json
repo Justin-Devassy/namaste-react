@@ -1,0 +1,27 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justin-Devassy/namaste-react.git"
+  },
+  "author": "justin devassy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Justin-Devassy/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Justin-Devassy/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
